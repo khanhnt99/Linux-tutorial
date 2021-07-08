@@ -1,2 +1,2 @@
 # Linux-tutorial
-## Ôn lại kiến thức về Linux
+## Ôn lại kiến thức về Linux.
